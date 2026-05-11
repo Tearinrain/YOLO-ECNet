@@ -15,7 +15,7 @@ git clone https://github.com/your_username/YOLO-ECNet.git
 cd YOLO-ECNet
 pip install -e .
 ```
-## Train&Validation
+## Train & Validation
 
 We provide `train.py` and `val.py` for model training and validation. The default model configuration is set to **YOLO11-ECNet**, and the main training and validation parameters have already been configured in the scripts.
 
