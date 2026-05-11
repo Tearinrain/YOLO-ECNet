@@ -1,4 +1,4 @@
-# YOLO11-ECNet
+# YOLO-ECNet
 
 ## Installation
 
